@@ -256,7 +256,7 @@
 
 <div class="container">
   <img src="/cat.webp" alt="Cute cat" class="cat-gif" />
-  <p class="arigato">ARIGATO MI AMOR!</p>
+  <p class="arigato">YUHHHHH GRACIAS MI AMOR!!!</p>
   <div class="text-scroll">
     <div class="text-track">
       <!-- First set - 15 items -->
