@@ -1,5 +1,6 @@
 <script lang="ts">
   import { onMount } from "svelte";
+  import { base } from "$app/paths";
 
   let canvas: HTMLCanvasElement;
 
@@ -255,7 +256,7 @@
 <canvas bind:this={canvas} id="confetti"></canvas>
 
 <div class="container">
-  <img src="/cat.webp" alt="Cute cat" class="cat-gif" />
+  <img src="{base}/cat.webp" alt="Cute cat" class="cat-gif" />
   <p class="arigato">YUHHHHH GRACIAS MI AMOR!!!</p>
   <div class="text-scroll">
     <div class="text-track">
